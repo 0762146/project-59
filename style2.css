@@ -1,0 +1,38 @@
+body{
+  background-color:black;
+  font-family: cursive;
+  
+}
+#intro{
+  background: rgb(14,23,133);
+background: linear-gradient(90deg, rgba(14,23,133,1) 25%, rgba(255,255,255,1) 50%, rgba(138,29,29,1) 75%);
+  text-align:center;
+  font-family:monospace;
+  
+}
+img{
+  border-radius:15%
+}
+p{
+  font-family:sans-serif;
+  color:white;
+}
+h1{
+  color:steelblue;
+}
+
+#backstory{
+  background-color:black;
+}
+ul{
+  display:hover;
+}
+li {
+  display: inline;
+}
+#falconrates{
+  background-color:darkblue;
+}
+#inspirationcreation{
+  background-color:darkred;
+}
